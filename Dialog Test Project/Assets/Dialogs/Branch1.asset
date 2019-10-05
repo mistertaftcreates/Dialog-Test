@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d818c715ea0744927a2f062f1cbf7917, type: 3}
+  m_Name: Branch1
+  m_EditorClassIdentifier: 
+  dialogString: This is a test branch
+  optionOneString: Test 1
+  optionTwoString: Test 2
+  optionThreeString: Test 3
+  optionOneBranch: {fileID: 11400000, guid: fe7b6b7fe0a854797ba1530eb962075b, type: 2}
+  optionTwoBranch: {fileID: 11400000, guid: 539d43e0598eb4a18a32ffe17a4affa3, type: 2}
+  optionThreeBranch: {fileID: 11400000, guid: 3f7ebe1889a2741658cf4b532bf0ecb0, type: 2}
